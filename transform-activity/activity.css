@@ -1,3 +1,12 @@
 main {
+    background-color: mediumaquamarine;
+    height: 90vh;
+    width: 100vh;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    transform: skew(5deg, 5deg);
+     
+}
 
 }
