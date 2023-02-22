@@ -2,7 +2,16 @@
   background-color: ghostwhite;
   animation-name: top;
   animation-duration: 1s;
-  animation-fill-mode: forwards;
+  animation-fill-mode:forward;
+  transform: rotate(-45deg);
+  position:relative;
+  top: 35px;
+  transition: 2s
+  
+  
+  
+  
+  
   
 }
 
@@ -16,7 +25,16 @@
   background-color: ghostwhite;
   animation-name: bottom;
   animation-duration: 1s;
-  animation-fill-mode: forwards;
+  animation-fill-mode:forward;
+  transform: rotate(45deg);
+  position: relaataive;
+  bottom: 30px;
+  transition: 2s;
+  
+  
+  
+  
+
   
   
 }
